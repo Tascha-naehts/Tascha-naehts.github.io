@@ -1,8 +1,4 @@
-body {
-	padding: 100px;
-}
-
-div {
+#LogoContainer {
 	border-radius: 50%;
 	width: 300px;
 	height: 300px;
@@ -11,6 +7,6 @@ div {
 	margin: 0 auto;
 }
 
-img {
+#Logo {
 	width: 100%;
 }
