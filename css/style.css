@@ -51,3 +51,11 @@ footer.bg-light {
 .logoWithNameImage {
 	width: 300px;
 }
+
+.cart {
+	float: right;
+}
+
+.cart img {
+	width: 32px;
+}
