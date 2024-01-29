@@ -44,6 +44,10 @@ footer.bg-light {
 	background-color: rgb(131, 170, 139);
 }
 
+.logoWithName {
+	text-align: center;
+}
+
 .logoWithNameImage {
 	width: 300px;
 }
