@@ -59,3 +59,8 @@ footer.bg-light {
 .cart img {
 	width: 32px;
 }
+
+.mainHeadline {
+	font-family: Over the Rainbow;
+	font-size: 200%;
+}
