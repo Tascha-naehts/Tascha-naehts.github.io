@@ -64,3 +64,8 @@ footer.bg-light {
 	font-family: Over the Rainbow;
 	font-size: 200%;
 }
+
+.me {
+	float: left;
+	margin: 0 10px 10px 0;
+}
